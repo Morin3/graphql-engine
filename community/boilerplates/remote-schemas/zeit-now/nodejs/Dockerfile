@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:23.3.0
 
 WORKDIR /server
 
