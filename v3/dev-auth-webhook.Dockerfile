@@ -9,7 +9,7 @@ WORKDIR /app/crates/auth/dev-auth-webhook
 RUN cargo build --release --package=dev-auth-webhook
 
 # copy
-FROM debian:bookworm-slim
+FROM debian:12.11-slim
 
 COPY --from=builder /app/target/release/dev-auth-webhook /usr/bin
 
