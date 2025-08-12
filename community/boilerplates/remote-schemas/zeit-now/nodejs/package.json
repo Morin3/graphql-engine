@@ -11,6 +11,6 @@
   "dependencies": {
     "apollo-server": "^2.2.1",
     "graphql": "^16.10.0",
-    "graphql-tools": "^4.0.3"
+    "graphql-tools": "^9.0.20"
   }
 }
