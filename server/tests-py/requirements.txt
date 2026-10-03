@@ -22,7 +22,7 @@ promise==2.3
 psycopg2-binary==2.9.5
 py==1.11.0
 pycparser==2.21
-PyJWT==2.3.0
+PyJWT==2.15.0
 pytest==6.2.5
 pytest-durations==1.2.0
 pytest-fixture-order==0.1.4
