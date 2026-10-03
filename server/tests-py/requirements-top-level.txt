@@ -7,7 +7,7 @@ graphene == 2.*  # v3 has changed the API
 graphql-core
 jsondiff
 psycopg2-binary
-PyJWT == 2.3.*  # v2.4 disallows the key format we use
+PyJWT == 2.15.*  # v2.4 disallows the key format we use
 pytest == 6.2.5
 pytest-durations
 pytest-fixture-order
